@@ -6,6 +6,7 @@
 
 
 * group 2
+connnecting the menu functions to the local sql database
 
 
 * group 3 
